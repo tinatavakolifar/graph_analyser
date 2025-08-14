@@ -1,4 +1,4 @@
-# Graph Analyzer
+# Graph Analyser
 
 This is a Python-based program for **graph analysis and visualization**.
 It allows the user to input a graph (either manually or via CSV file) and perform various analyses such as checking connectivity, detecting cycles, finding shortest paths, performing topological sorting, and more.
