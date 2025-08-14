@@ -121,7 +121,7 @@ pip install networkx matplotlib
 ## Run the Code
 
 ```bash
-python "Graph Analyzer.py"
+python "Graph Analyser.py"
 ```
 
 ---
